@@ -1,0 +1,10 @@
+//此多仓接口是为了给大家提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
+//此网址就是多仓接口，直接复制就能使用，无需打开下方的链接，复制room.json结尾的网址即可！
+{
+"storeHouse": [
+{"sourceName":"🔶薛定谔的喵|精品仓1🔶","sourceUrl":"https://raw.giteeusercontent.com/xdedcat/cattv/raw/master/cat1?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJjYXQxIiwidWlkIjoxNjk5NjE5MywicGlkIjo0NzM0MTYyNSwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by00MnQtMDEyIiwicnAiOiJyZXBvcy82NC9lOC82NGU4OGZiNzU5NzFhNjRkMmExZTYzZWJhYzRjZjg0NjJmOTYyNzY5NWIwMDY0YjJjYTViNTM3MWE1MzllOTM1LmdpdCIsImV4cGlyZV9hdCI6MTc3NzI5MDYwMH0&signature=SWcZIAhkEqcL7rnpa4IO7LzZEeDlb_lKWBpEKWinPhQ"},
+{"sourceName":"🔶薛定谔的喵|精品仓2🔶","sourceUrl":"https://raw.giteeusercontent.com/xdedcat/cattv/raw/master/cat2?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJjYXQyIiwidWlkIjoxNjk5NjE5MywicGlkIjo0NzM0MTYyNSwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by00MnQtMDEyIiwicnAiOiJyZXBvcy82NC9lOC82NGU4OGZiNzU5NzFhNjRkMmExZTYzZWJhYzRjZjg0NjJmOTYyNzY5NWIwMDY0YjJjYTViNTM3MWE1MzllOTM1LmdpdCIsImV4cGlyZV9hdCI6MTc3NzI5MDYwMH0&signature=U0KePo-KAodtO-uRlXCTTVrUdIRsqaOQ3KXbK8UiV4w"},
+{"sourceName":"🔶薛定谔的喵|精品仓3🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easydc.jpg"},
+{"sourceName":"🔶薛定谔的喵|精品仓4🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg"}
+]
+}
