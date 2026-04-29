@@ -2,9 +2,13 @@
 //此网址就是多仓接口，直接复制就能使用，无需打开下方的链接，复制room.json结尾的网址即可！
 {
 "storeHouse": [
-{"sourceName":"🔶薛定谔的喵|精品仓1🔶","sourceUrl":"https://github.com/18538292130/cattv/blob/09712a50807b28162b2828fbc6cd124de8ca6617/cat1"},
-{"sourceName":"🔶薛定谔的喵|精品仓2🔶","sourceUrl":"https://raw.giteeusercontent.com/xdedcat/cattv/raw/master/cat2?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJjYXQyIiwidWlkIjoxNjk5NjE5MywicGlkIjo0NzM0MTYyNSwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by00MnQtMDEyIiwicnAiOiJyZXBvcy82NC9lOC82NGU4OGZiNzU5NzFhNjRkMmExZTYzZWJhYzRjZjg0NjJmOTYyNzY5NWIwMDY0YjJjYTViNTM3MWE1MzllOTM1LmdpdCIsImV4cGlyZV9hdCI6MTc3NzI5MDYwMH0&signature=U0KePo-KAodtO-uRlXCTTVrUdIRsqaOQ3KXbK8UiV4w"},
-{"sourceName":"🔶薛定谔的喵|精品仓3🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easydc.jpg"},
-{"sourceName":"🔶薛定谔的喵|精品仓4🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg"}
+{"sourceName":"🔶薛定谔的喵|烛龙仓🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easydc.jpg"},
+{"sourceName":"🔶薛定谔的喵|烛照仓🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg"},
+{"sourceName":"🔶薛定谔的喵|鲲鹏仓🔶","sourceUrl":"https://tv.nxog.top/api.php?mz=xb&id=1&b=%E6%AC%A7%E6%AD%8C"},
+{"sourceName":"🔶薛定谔的喵|黄龙仓🔶","sourceUrl":"http://ztha.top/TVBox/GYCK.json"},
+{"sourceName":"🔶薛定谔的喵|青龙仓🔶","sourceUrl":"http://xmbjm.fh4u.org/dc.txt"},
+{"sourceName":"🔶薛定谔的喵|白虎仓🔶","sourceUrl":"https://cyuan.netlify.app/tvbox/duo.json"},
+{"sourceName":"🔶薛定谔的喵|朱雀仓🔶","sourceUrl":"https://tv.youdu.fan:666/"},
+{"sourceName":"🔶薛定谔的喵|玄武仓🔶","sourceUrl":"http://xhztv.top/dc"}
 ]
 }
