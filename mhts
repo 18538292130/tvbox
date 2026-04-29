@@ -3,12 +3,15 @@
 {
 "storeHouse": [
 {"sourceName":"🔶薛定谔的喵|烛龙仓🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easydc.jpg"},
-{"sourceName":"🔶薛定谔的喵|烛照仓🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg"},
-{"sourceName":"🔶薛定谔的喵|鲲鹏仓🔶","sourceUrl":"https://tv.nxog.top/api.php?mz=xb&id=1&b=%E6%AC%A7%E6%AD%8C"},
+{"sourceName":"🔶薛定谔的喵|鲲鹏仓🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg"},
+{"sourceName":"🔶薛定谔的喵|应龙仓🔶","sourceUrl":"https://tv.nxog.top/api.php?mz=xb&id=1&b=%E6%AC%A7%E6%AD%8C"},
 {"sourceName":"🔶薛定谔的喵|黄龙仓🔶","sourceUrl":"http://ztha.top/TVBox/GYCK.json"},
 {"sourceName":"🔶薛定谔的喵|青龙仓🔶","sourceUrl":"http://xmbjm.fh4u.org/dc.txt"},
 {"sourceName":"🔶薛定谔的喵|白虎仓🔶","sourceUrl":"https://cyuan.netlify.app/tvbox/duo.json"},
 {"sourceName":"🔶薛定谔的喵|朱雀仓🔶","sourceUrl":"https://tv.youdu.fan:666/"},
-{"sourceName":"🔶薛定谔的喵|玄武仓🔶","sourceUrl":"http://xhztv.top/dc"}
+{"sourceName":"🔶薛定谔的喵|玄武仓🔶","sourceUrl":"https://www.xn--rgv465a.top/fine.json"},
+{"sourceName":"🔶薛定谔的喵|麒麟仓🔶","sourceUrl":"https://13537.kstore.vip/tvbox/test.json"},
+{"sourceName":"🔶薛定谔的喵|白泽仓🔶","sourceUrl":"http://xhztv.top/dc"}
+
 ]
 }
