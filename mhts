@@ -2,9 +2,9 @@
 //此网址就是多仓接口，直接复制就能使用，无需打开下方的链接，复制room.json结尾的网址即可！
 {
 "storeHouse": [
-{"sourceName":"🔶==超哥专属仓1.0版==🔶","sourceUrl":""},
+{"sourceName":"🔶==超哥专属仓2.0版==🔶","sourceUrl":""},
 {"sourceName":"🔶薛定谔的喵 | 烛龙仓🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easydc.jpg"},
-{"sourceName":"🔶薛定谔的喵 | 鲲鹏仓🔶","sourceUrl":"http://iiptv.xyz/dxaz"},
+{"sourceName":"🔶薛定谔的喵 | 鲲鹏仓🔶","sourceUrl":"https://teach.link/7BgCf8"},
 {"sourceName":"🔶薛定谔的喵 | 应龙仓🔶","sourceUrl":"https://chuanshuo.77blog.cn/api/华缘社.json"},
 {"sourceName":"🔶薛定谔的喵 | 黄龙仓🔶","sourceUrl":"https://gh.jasonzeng.dev/https://raw.githubusercontent.com/2124662895/yydhj/mainvhh/bbmm.json"},
 {"sourceName":"🔶薛定谔的喵 | 青龙仓🔶","sourceUrl":"http://xmbjm.fh4u.org/dc.txt"},
