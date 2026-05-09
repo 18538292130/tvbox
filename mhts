@@ -1,10 +1,8 @@
-//此多仓接口是为了给大家提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
-//此网址就是多仓接口，直接复制就能使用，无需打开下方的链接，复制room.json结尾的网址即可！
+//此接口纯属娱乐，如有冒犯，请联系删除！
 {
 "storeHouse": [
-{"sourceName":"🔶==超哥专属仓5.8版==🔶","sourceUrl":""},
-{"sourceName":"🔶薛定谔的喵 | 超级仓🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/xdedcat-lf/cattv/refs/heads/main/cat0"},
-{"sourceName":"🔶薛定谔的喵 | 超级仓🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/xdedcat-lf/cattv/refs/heads/main/cat1"},
+{"sourceName":"🔶薛定谔的喵 | 精品仓🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/xdedcat-lf/cattv/refs/heads/main/cat0"},
+{"sourceName":"🔶薛定谔的喵 | 优选仓🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/xdedcat-lf/cattv/refs/heads/main/cat1"},
 {"sourceName":"🔶薛定谔的喵 | 烛龙仓🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easydc.jpg"},
 {"sourceName":"🔶薛定谔的喵 | 鲲鹏仓🔶","sourceUrl":"https://teach.link/7BgCf8"},
 {"sourceName":"🔶薛定谔的喵 | 应龙仓🔶","sourceUrl":"https://chuanshuo.77blog.cn/api/华缘社.json"},
